@@ -20,15 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a58351d-1019-446a-98df-8d9ec373a1d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -158,7 +160,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605678912781</updated>
-      <workItem from="1605678913828" duration="1209000" />
+      <workItem from="1605678913828" duration="1278000" />
+      <workItem from="1605732309356" duration="177000" />
+      <workItem from="1605747468796" duration="1705000" />
     </task>
     <servers />
   </component>
@@ -175,5 +179,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605732485052">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1605732485052" />
   </component>
 </project>

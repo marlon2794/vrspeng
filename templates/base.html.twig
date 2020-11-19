@@ -11,11 +11,14 @@
         <!-- Import tfjs-vis -->
         <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@1.0.2/dist/tfjs-vis.umd.min.js"></script>
 
+        <!-- Import TensorFlow.js library -->
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js" type="text/javascript"></script>
+        <!-- Load the coco-ssd model to use to recognize things in images -->
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
+
         <!-- Import the data file -->
         <script src="js/data.js" type="module"></script>
 
-        <!-- Import the main script file -->
-        <script src="js/script.js" type="module"></script>
         {% block stylesheets %}{% endblock %}
     </head>
     <body>
